@@ -1,0 +1,11 @@
+station_id,station_name,elevation_m,latitude,longitude,source_file
+khaishi,Khaishi,700.0,42.57,42.11,Khaishi 700m Lat42d57_ Long42d11_.xlsx
+lebarde,Lebarde,1491.0,42.44,42.49,Lebarde 1491m Lat42d44_ Long42d49_.xlsx
+lentekhi,Lentekhi,731.0,42.47,42.44,Lentekhi 731m Lat42d47_ Long42d44_.xlsx
+mamisoni_pass,Mamisoni Pass,2854.0,42.42,43.47,Mamisoni Pass 2854m Lat42d42_ Long43d47_.xlsx
+mestia,Mestia,1441.0,43.03,42.45,Mestia 1441m Lat43d03_ Long42d45_.xlsx
+shovi,Shovi,1508.0,42.42,43.41,Shovi 1508m Lat42d42_ Long43d41_.xlsx
+tsageri,Tsageri,500.0,42.38,42.46,Tsageri 500m Lat42d38_ Long42d46_.xlsx
+zugdidi,Zugdidi,118.0,42.31,41.53,Zugdidi 118m Lat42d31_ Long41d53_.xlsx
+khaishi,~$Khaishi,700.0,42.57,42.11,~$Khaishi 700m Lat42d57_ Long42d11_.xlsx
+lebarde,~$Lebarde,1491.0,42.44,42.49,~$Lebarde 1491m Lat42d44_ Long42d49_.xlsx
